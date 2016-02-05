@@ -249,6 +249,7 @@ function create_config( )
    ߔࠀ   @sorblack_creed
    ߔࠀ   @amircc_creed
    ߔࠀ   @aria_creed
+        @mesterali10
    〰〰〰〰〰〰〰〰
   ♻️ You can send your Ideas and messages to Us By sending them into bots account by this command :
    تمامی درخواست ها و همه ی انتقادات و حرفاتونو با دستور زیر بفرستین به ما
